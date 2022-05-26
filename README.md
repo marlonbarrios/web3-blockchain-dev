@@ -6,7 +6,8 @@
 
 ![31c98a5e05fee9aa7d9898ef4a1e14558ead6840](https://user-images.githubusercontent.com/90220317/170337857-32e586d6-89d8-47c4-84bb-8be3bcaafb8d.png)
 
-As a founder and leader of MotionDAO the founder, I facilitate contexts of adoption and creative experimentation using Web3 technologies; investigating its impacts on ownership, governance and value creation within local and global communities of artists; MotionDAO operates supported and supporting the social networks dance-tech.net and movimiento.org. MotionDAO is part of the Near Protocol ecosystem.
+As a founder and leader of MotionDAO, I facilitate and generate contexts of adoption and creative experimentation using Web3 technologies; investigating its impacts on ownership, governance and value creation within local and global communities of artists; MotionDAO operates as a DAO 9Descentralized Autonomous Organization) supported and supporting the social networks dance-tech.net and movimiento.org. 
+MotionDAO is part of the Near Protocol ecosystem.
 
 [MotionDAO in Notion](https://olive-continent-a23.notion.site/MotionDAO-A-WEB3-Dancing-Ecosystem-6e9b46865dcd4021a1d4077fcffb9f3f 'MotionDAO')
 
